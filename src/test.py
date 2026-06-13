@@ -1,0 +1,11 @@
+import pandas as pd
+df=pd.read_csv("data/student-por.csv", sep=";")
+print("Shape:", df.shape)
+print("\nColumns:")
+print(df.columns)
+print("\nMissing Values:")
+print(df.isnull().sum())
+print("\nData Types:")
+print(df.dtypes)
+print("\nStatistics:")
+print(df.describe())
