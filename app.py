@@ -67,6 +67,6 @@ if st.button("Predict Final Grade"):
     else:
         st.warning("Student may require additional academic support 📚")
 st.divider()
-st.caption(
+st.caption( 
     "Built using Python, Pandas, Scikit-Learn, and Streamlit"
 )
