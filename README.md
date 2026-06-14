@@ -73,9 +73,11 @@ Target Variable:
 ---
 # 📸 Screenshots
 ### Home Page
-(Add Screenshot Here)
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/a9a10a11-7440-464e-b853-7e872d2dba80" />
+
 ### Prediction Result
-(Add Screenshot Here)
+<img width="1085" height="858" alt="image" src="https://github.com/user-attachments/assets/3a324807-a568-4756-ade1-b2847543e622" />
+
 
 ---
 # 🧠 Machine Learning Workflow
